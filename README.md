@@ -1,3 +1,6 @@
+# Note:
+This is a massive work in progress and primarily me playing around. The goal is to keep from re-creating AI Agents for tasks.
+
 # Central Command Center Project README
 
 ## Overview
