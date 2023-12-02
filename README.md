@@ -2,7 +2,7 @@
 
 # CommandAI: The Future of Farm Management
 
-![CommandAI Logo](commandai.png)
+![CommandAI Logo](app/static/CommandAI.png)
 
 ### Harnessing AI and IoT for Advanced Agricultural Insights
 
