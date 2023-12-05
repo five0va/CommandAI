@@ -1,6 +1,6 @@
 # CommandAI-Actual
 
-![CommandAI-Actual](CommandAI-Actual.png)
+![CommandAI-Actual](src/CommandAI-Actual.png)
 
 ## Overview
 CommandAI-Actual is a sophisticated AI ecosystem designed to function both as a Personal AI for individual use and as a component within a scalable multi-CommandAI system. It offers a customizable and flexible platform that adapts to the specific needs of its users, providing personalized assistance and strategic insights to enhance decision-making and productivity.
