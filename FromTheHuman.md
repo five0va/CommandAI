@@ -6,5 +6,8 @@ My mission with the CommandAI project is to engineer Natural Language, Nested St
 
 This initiative is a testament to our commitment to human-centric AI development, ensuring that every step we take is aligned with enhancing human collaboration and efficiency.
 
-Alan
+**Alan**
+
+
+
 ![Alan Logo](AlanLogo.png)
