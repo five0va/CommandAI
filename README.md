@@ -14,6 +14,8 @@
 
 CommandAI is a cutting-edge platform designed to revolutionize farm management through the power of artificial intelligence (AI) and the Internet of Things (IoT). Our system provides proactive guidance, real-time market insights, and workflow optimization to support strategic decision-making and innovation.
 
+**From Alan, the Human: The files will be Natural Language,  Nested Structures for AI Agent Teams, even down to the individual AI Agent's Biography. The idea behind this is to create workflows (to include decisions) from the Human-By-Default aspect and have Autonomous agents created for how things are needed for an Individual Human, a team of Humans, Humans & AI, however.**
+
 ## Features
 
 - **Proactive Guidance**: Offering insights and recommendations to support decision-making.
