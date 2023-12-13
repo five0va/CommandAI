@@ -1,10 +1,10 @@
 <div align="center">
 
-# CommandAI: The Future of Farm Management
+# CommandAI: The Future of Individual Management
 
 ![CommandAI Logo](CommandAI.png)
 
-### Harnessing AI and IoT for Advanced Agricultural Insights
+### Harnessing AI and IoT for Advanced Insights & Human Decision Making.
 
 ---
 
